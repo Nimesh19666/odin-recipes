@@ -1,0 +1,45 @@
+h1{
+    color: tomato;
+    font-family: Verdana;
+}
+body{
+    background-color: black;
+    font-size: medium;
+    color: blanchedalmond;
+}
+a{
+    color: aqua;
+}
+
+span{
+    color: aqua;
+}
+.bottom{
+    color: aliceblue;
+
+}
+.lower-bottom{
+    font-size: 30px;
+    background: lightblue;
+}
+.special{
+    color: brown;
+}
+.special1{
+    color: red;
+}
+.daba{
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: chartreuse;
+    border-width: 2px;
+    border-style: ridge;
+    padding: 5px 5px 300px 5px;
+    background-image: url(https://tinyurl.com/32n498ar);
+    background-size: cover;
+
+}
