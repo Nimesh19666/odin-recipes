@@ -1,0 +1,42 @@
+.top{
+    margin: -8px;
+    padding: -8px;
+    /*background-color: bisque;*/
+    border: 10px solid black;
+
+}
+.top-header{
+    display: flex;
+    /*background-color: lightcoral;*/
+    justify-content: center;
+}
+.header{
+    
+    /*background-color: aquamarine;*/
+    width: max-content;
+
+}
+
+
+ul{
+    display: flex;
+    /*background-color: aqua;*/
+    list-style-type: none;
+    justify-content: center;
+    margin-top: 32px;
+    gap: 52px;
+    
+}
+li{  
+    /*background-color: yellow;*/
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    align-items:center;
+    width: 200px;
+    
+}
+img{
+    width: 150px;
+
+}
